@@ -1,0 +1,6 @@
+@HelloWorldReact.Web_HostAddress = http://localhost:5108
+
+GET {{HelloWorldReact.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
